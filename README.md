@@ -1,1 +1,1 @@
-# gcp
+this is for GCP training
